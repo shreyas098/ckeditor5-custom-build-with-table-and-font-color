@@ -2,18 +2,18 @@
   "name": "ckeditor5-custom-build-with-table-and-font-color",
   "author": "Shreyash Shetty",
   "description": "A custom CKEditor 5 build that includes table as well font styling option.",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "license": "MIT",
   "private": false,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shreyas098/react-file-viewer"
+    "url": "git+https://github.com/shreyas098/ckeditor5-custom-build-with-table-and-font-color"
   },
   "bugs": {
-    "url": "https://github.com/shreyas098/react-file-viewer/issues"
+    "url": "https://github.com/shreyas098/ckeditor5-custom-build-with-table-and-font-color/issues"
   },
   "main": "./build/ckeditor.js",
-  "homepage": "",
+  "homepage": "https://github.com/shreyas098/ckeditor5-custom-build-with-table-and-font-color#readme",
   "devDependencies": {
     "@ckeditor/ckeditor5-autoformat": "^31.0.0",
     "@ckeditor/ckeditor5-basic-styles": "^31.0.0",
